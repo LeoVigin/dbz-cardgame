@@ -28,6 +28,6 @@ git clone https://github.com/LeoVigin/dbz-cardgame.git
 - Built using PHP, SQL, JS, HTML, and CSS
 
 ## Authors
-@Leogeox
+@LeoVigin
 
 
